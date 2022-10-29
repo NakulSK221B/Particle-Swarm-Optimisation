@@ -117,8 +117,8 @@ class pso:
                     underline='none',
                     strike=False,
                     color='FF000000')
-        plt.savefig("D:/BVB/DECENTALISED/PSO/v3.0/Plots/"+"Trial No."+str(pso.Test_No)+".png", dpi = 150)
-        img = drawing.image.Image("D:/BVB/DECENTALISED/PSO/v3.0/Plots/"+"Trial No."+str(pso.Test_No)+".png")
+        plt.savefig("Plots/Trial No."+str(pso.Test_No)+".png", dpi = 150)
+        img = drawing.image.Image("Plots/Trial No."+str(pso.Test_No)+".png")
         img.anchor='M5'
         pso.ws.add_image(img)
         plt.show()
