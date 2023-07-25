@@ -11,9 +11,9 @@ However unlike Generic algorithm, each particle is given a randomized velocity t
 _NOTE: Here a particle refers to a solution within the search space of the PSO._
 
 ### The 3 distinct features of PSO are
-1. Best fitness of a particle- The best solution achieved so far by a particular particle _i_ (i.e Local Best).
-2. Best fitness of the swarm- The best solution achieved so far by any particel in the swarm (i.e Global Best).
-3. Velocity and position update of each particle- For exploring and exploiting the search space to loacte the optimal solution.
+1. **Best fitness of a particle** The best solution achieved so far by a particular particle _i_ (i.e Local Best).
+2. **Best fitness of the swarm** The best solution achieved so far by any particel in the swarm (i.e Global Best).
+3. **Velocity and position update of each particle** For exploring and exploiting the search space to loacte the optimal solution.
 
 ## Process Flow
 
