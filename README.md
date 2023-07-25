@@ -20,5 +20,11 @@ _NOTE: Here a particle refers to a solution within the search space of the PSO._
 ![Screenshot 2023-07-24 234105](https://github.com/NakulSK221B/Particle-Swarm-Optimisation/assets/95758559/be035f8b-403f-42b9-b0ad-5bcf04d07c52)
 
 ## Results
+The result of the process is first displayed in the form of a plot using the _matplotlib_ library.
+
+![image](https://github.com/NakulSK221B/Particle-Swarm-Optimisation/assets/95758559/51629105-eae8-406c-a8dc-774106cb601c)
+
+
+![image](https://github.com/NakulSK221B/Particle-Swarm-Optimisation/assets/95758559/48e85e2c-f430-4ed7-a9a8-2d5cc711853a)
 
 
