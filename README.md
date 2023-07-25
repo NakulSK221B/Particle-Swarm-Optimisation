@@ -24,7 +24,13 @@ The result of the process is first displayed in the form of a plot using the _ma
 
 ![image](https://github.com/NakulSK221B/Particle-Swarm-Optimisation/assets/95758559/51629105-eae8-406c-a8dc-774106cb601c)
 
+In the above image the _triangles_ represent the initializing population of particles.
+The _squares_ that gradually accumalate towards each other are the generation of particles that eventually coincide towards the optimal solution.
 
-![image](https://github.com/NakulSK221B/Particle-Swarm-Optimisation/assets/95758559/48e85e2c-f430-4ed7-a9a8-2d5cc711853a)
+After this, The detailed information of all the iteration of the algorithm are documented in the Test_WB.xml file.
+
+```xml
+
+```
 
 
